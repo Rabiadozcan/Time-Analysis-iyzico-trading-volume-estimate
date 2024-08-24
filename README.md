@@ -1,4 +1,4 @@
-# Time-Analysis-Iyzico-trading-volume-estimate
+# Time Series-Iyzico trading volume estimate
 🚩Expected Transaction Volume Estimate from Member Businesses.
 🛒It is expected that the total transaction volume estimate will be made on a merchant_id and daily basis for the last 3 months of 2020.
 🛒Data from 2017 to 2021 of a total of 7 member businesses in 7 categories are included.
